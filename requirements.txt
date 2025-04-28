@@ -1,0 +1,9 @@
+bitsandbytes==0.42.0
+torch
+transformers==4.39.3
+peft==0.10.0
+accelerate
+loralib==0.1.2
+einops==0.7.0
+gradio
+google-generativeai

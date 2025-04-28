@@ -1,0 +1,2014 @@
+[
+  {
+    "input": "Tell me about yourself.",
+    "output": "Start by mentioning your education, key projects, internships, and future career goals in a concise way."
+  },
+  {
+    "input": "Why do you want to join our company?",
+    "output": "Highlight your skills matching the company mission and your excitement about the company's growth."
+  },
+  {
+    "input": "What are your greatest strengths?",
+    "output": "Talk about 2-3 strengths relevant to the job role, with short examples demonstrating them."
+  },
+  {
+    "input": "What are your weaknesses?",
+    "output": "Mention a real weakness but focus on how you are actively improving it."
+  },
+  {
+    "input": "Where do you see yourself in five years?",
+    "output": "Show ambition but tie it to growing with the company and gaining new skills."
+  },
+  {
+    "input": "Describe a challenging situation you faced and how you handled it.",
+    "output": "Use the STAR method: Situation, Task, Action, Result."
+  },
+  {
+    "input": "How do you handle pressure and stress?",
+    "output": "Explain that you stay calm, prioritize tasks, and seek help when necessary."
+  },
+  {
+    "input": "Why should we hire you?",
+    "output": "Match your skills, experience, and passion directly to the job description."
+  },
+  {
+    "input": "Tell me about a time you worked in a team.",
+    "output": "Describe a positive team experience where you collaborated to achieve a goal."
+  },
+  {
+    "input": "Do you prefer working independently or in a team?",
+    "output": "Say you are flexible — you enjoy both collaboration and independent problem-solving."
+  },
+  {
+    "input": "What motivates you to perform well in a job?",
+    "output": "Talk about passion for learning, achieving goals, and contributing meaningfully to the team."
+  },
+  {
+    "input": "Can you describe a time when you took initiative?",
+    "output": "Share a story where you identified an opportunity or problem and acted on it proactively."
+  },
+  {
+    "input": "How do you prioritize tasks when working on multiple projects?",
+    "output": "Explain how you assess urgency, importance, and deadlines to plan effectively."
+  },
+  {
+    "input": "Tell me about a time you failed. How did you handle it?",
+    "output": "Be honest about a failure, focus on what you learned, and how you applied that learning."
+  },
+  {
+    "input": "How do you keep yourself updated with industry trends?",
+    "output": "Mention following blogs, attending webinars, courses, and communities relevant to your field."
+  },
+  {
+    "input": "What skills would you like to develop in the next year?",
+    "output": "Choose skills that align with your career goals and show a growth mindset."
+  },
+  {
+    "input": "How do you ensure quality and accuracy in your work?",
+    "output": "Mention double-checking work, peer reviews, and following best practices."
+  },
+  {
+    "input": "Have you ever disagreed with a team member? How did you resolve it?",
+    "output": "Describe the situation calmly, showing communication, empathy, and professionalism."
+  },
+  {
+    "input": "How would your previous manager describe you?",
+    "output": "Highlight positive traits like being reliable, a team player, or a quick learner."
+  },
+  {
+    "input": "Tell me about a time you worked under a tight deadline.",
+    "output": "Explain how you managed time, stayed organized, and delivered quality work under pressure."
+  },
+  {
+    "input": "What makes you unique as a candidate?",
+    "output": "Talk about a unique combination of skills, experiences, or perspectives you bring."
+  },
+  {
+    "input": "How do you handle receiving constructive criticism?",
+    "output": "Show that you accept feedback positively and use it to improve yourself."
+  },
+  {
+    "input": "What type of work environment do you prefer?",
+    "output": "Be honest but adaptable; say you value collaboration, learning, and growth-focused environments."
+  },
+  {
+    "input": "If hired, what would be your immediate goals for the first 90 days?",
+    "output": "Talk about learning the company processes, building relationships, and contributing to projects."
+  },
+  {
+    "input": "What do you know about our company?",
+    "output": "Research and mention the company’s mission, values, products, and culture."
+  },
+  {
+    "input": "How do you manage stress at work?",
+    "output": "Share healthy coping strategies like planning, taking breaks, or mindfulness techniques."
+  },
+  {
+    "input": "Describe a project you are particularly proud of.",
+    "output": "Pick a project where you made significant contributions and explain its impact."
+  },
+  {
+    "input": "What would you do if you didn’t know how to complete a task assigned to you?",
+    "output": "Explain you would research first, ask colleagues or supervisors if needed, and keep learning."
+  },
+  {
+    "input": "How do you adapt to changes in the workplace?",
+    "output": "Talk about being flexible, maintaining a positive attitude, and quickly learning new things."
+  },
+  {
+    "input": "What are your salary expectations?",
+    "output": "Say you are open to discussion based on the role responsibilities and your market research."
+  },
+  {
+    "input": "How do you stay organized and manage time effectively?",
+    "output": "Talk about using tools like calendars, task managers, and setting clear priorities."
+  },
+  {
+    "input": "Tell me about a time you went above and beyond for a project.",
+    "output": "Share an example where you did more than what was expected, showing initiative."
+  },
+  {
+    "input": "How do you handle conflict in the workplace?",
+    "output": "Explain how you listen to all sides, find common ground, and work towards a solution."
+  },
+  {
+    "input": "What is your approach to learning new skills?",
+    "output": "Describe your proactive approach, whether through courses, practice, or mentorship."
+  },
+  {
+    "input": "Describe a time when you had to work with a difficult colleague.",
+    "output": "Talk about how you handled the situation calmly, professionally, and focused on the work."
+  },
+  {
+    "input": "Why did you leave your last job?",
+    "output": "Be honest but diplomatic, focusing on wanting to grow, take on new challenges, or find a better fit."
+  },
+  {
+    "input": "What are your career goals for the next 5 years?",
+    "output": "Describe realistic goals that align with the company’s mission and values."
+  },
+  {
+    "input": "What do you know about our competitors?",
+    "output": "Research and mention some competitors, comparing their strengths and weaknesses with your company."
+  },
+  {
+    "input": "How do you measure success?",
+    "output": "Discuss personal and professional benchmarks, such as meeting goals, learning, and contributing to the team."
+  },
+  {
+    "input": "Why do you think you are a good fit for this role?",
+    "output": "Match your skills and experiences with the job requirements and the company’s needs."
+  },
+  {
+    "input": "Tell me about a time you had to manage a project with limited resources.",
+    "output": "Describe how you maximized available resources, delegated tasks, and kept things on track."
+  },
+  {
+    "input": "How would you handle a situation where you missed a deadline?",
+    "output": "Explain how you would take responsibility, assess the impact, and work to fix the issue."
+  },
+  {
+    "input": "What makes you passionate about this industry?",
+    "output": "Share your genuine interest and how you’ve kept up with the latest trends and innovations."
+  },
+  {
+    "input": "How do you deal with ambiguity in the workplace?",
+    "output": "Discuss how you stay flexible, ask questions when necessary, and take action based on available information."
+  },
+  {
+    "input": "Can you describe a time when you had to handle multiple competing priorities?",
+    "output": "Talk about how you managed your time effectively and communicated with stakeholders."
+  },
+  {
+    "input": "What strategies do you use to motivate yourself and others?",
+    "output": "Mention setting small achievable goals, celebrating wins, and supporting team members."
+  },
+  {
+    "input": "How do you ensure collaboration within a team?",
+    "output": "Talk about encouraging open communication, understanding diverse perspectives, and fostering trust."
+  },
+  {
+    "input": "What do you expect from your manager or team leader?",
+    "output": "Discuss the need for clear communication, support, and opportunities for growth and feedback."
+  },
+  {
+    "input": "Tell me about a time you had to learn something quickly for a job.",
+    "output": "Describe the situation, how you approached learning, and how you successfully applied it."
+  },
+  {
+    "input": "How would you contribute to improving the culture here?",
+    "output": "Talk about your interpersonal skills, collaboration, and how you foster positive work environments."
+  },
+  {
+    "input": "What do you think is the most important quality for a successful team?",
+    "output": "Discuss communication, trust, and shared goals as key qualities for team success."
+  },
+  {
+    "input": "How do you handle tight deadlines and pressure?",
+    "output": "Explain your time management skills, prioritization, and ability to stay calm under pressure."
+  },
+  {
+    "input": "What is your approach to problem-solving?",
+    "output": "Describe your analytical thinking, creativity, and collaboration in finding solutions."
+  },
+  {
+    "input": "How do you handle repetitive tasks?",
+    "output": "Talk about maintaining focus, finding ways to improve efficiency, and staying motivated."
+  },
+  {
+    "input": "What are your thoughts on work-life balance?",
+    "output": "Express the importance of balance for productivity and well-being, while being committed to work."
+  },
+  {
+    "input": "How do you approach networking and building professional relationships?",
+    "output": "Discuss attending events, engaging on platforms like LinkedIn, and nurturing connections."
+  },
+  {
+    "input": "What is your experience with remote work or virtual teams?",
+    "output": "Share any remote work experience, tools used for collaboration, and how you stayed productive."
+  },
+  {
+    "input": "How do you handle feedback from peers or supervisors?",
+    "output": "Talk about being open to feedback, reflecting on it, and using it for personal growth."
+  },
+  {
+    "input": "What is your preferred method of communication in a team setting?",
+    "output": "Mention clear and concise communication through emails, meetings, or collaboration tools."
+  },
+  {
+    "input": "What are your hobbies outside of work?",
+    "output": "Talk about personal interests that help you maintain work-life balance and also contribute to your skills or mindset."
+  },
+  {
+    "input": "Tell me about a time when you worked with a diverse team.",
+    "output": "Describe how you adapted to working with different backgrounds and viewpoints to achieve a common goal."
+  },
+  {
+    "input": "How do you handle situations where you don't agree with a company policy?",
+    "output": "Explain how you would express concerns respectfully, seeking clarification or providing constructive feedback."
+  },
+  {
+    "input": "Can you explain a complex technical concept to a non-technical person?",
+    "output": "Demonstrate your ability to simplify technical concepts using analogies or layman’s terms."
+  },
+  {
+    "input": "What has been the most challenging project you’ve worked on?",
+    "output": "Talk about the challenges you faced, how you overcame them, and the successful outcomes."
+  },
+  {
+    "input": "How do you stay motivated during repetitive tasks?",
+    "output": "Mention how you maintain focus, take breaks, and remind yourself of the long-term value of completing the task."
+  },
+  {
+    "input": "What is your approach to team collaboration in a remote work environment?",
+    "output": "Discuss tools and communication strategies you use to ensure effective remote teamwork."
+  },
+  {
+    "input": "What is your greatest achievement so far?",
+    "output": "Highlight a significant achievement, emphasizing the skills you applied and the impact it had."
+  },
+  {
+    "input": "How do you approach problem-solving?",
+    "output": "Describe your methodical approach, such as identifying the problem, gathering data, and evaluating solutions."
+  },
+  {
+    "input": "What makes you excited about this opportunity?",
+    "output": "Discuss the aspects of the role that align with your passion, skills, and career goals."
+  },
+  {
+    "input": "Have you ever had to learn a new tool or technology quickly? How did you do it?",
+    "output": "Share your strategy for rapid learning, such as self-paced courses, online resources, or asking for help."
+  },
+  {
+    "input": "How do you ensure your work aligns with a company’s mission?",
+    "output": "Talk about understanding the company’s vision, making sure your actions contribute to it, and staying aligned."
+  },
+  {
+    "input": "What do you think is the key to effective leadership?",
+    "output": "Explain the importance of communication, empathy, delegation, and motivation in leadership."
+  },
+  {
+    "input": "How do you handle feedback that you disagree with?",
+    "output": "Demonstrate how you would professionally discuss and understand feedback while maintaining a positive attitude."
+  },
+  {
+    "input": "Tell me about a time you had to manage a difficult client or customer.",
+    "output": "Describe how you addressed the client’s concerns, managed expectations, and ensured a positive resolution."
+  },
+  {
+    "input": "How do you maintain a healthy work-life balance?",
+    "output": "Share how you prioritize personal time, avoid burnout, and remain productive during work hours."
+  },
+  {
+    "input": "How do you keep track of your goals and progress?",
+    "output": "Talk about tools, methods, or techniques you use to track goals, review progress, and adjust strategies."
+  },
+  {
+    "input": "How do you handle multitasking?",
+    "output": "Discuss strategies like time blocking, task prioritization, and staying organized to juggle multiple tasks."
+  },
+  {
+    "input": "What steps do you take when you encounter a roadblock in a project?",
+    "output": "Explain how you analyze the issue, ask for help if necessary, and find a creative solution."
+  },
+  {
+    "input": "Can you describe a time you had to learn from a mistake?",
+    "output": "Be honest about a mistake, focusing on the lessons you learned and how you applied them in the future."
+  },
+  {
+    "input": "What do you enjoy most about your current role?",
+    "output": "Talk about the aspects you enjoy, such as problem-solving, collaboration, or making an impact."
+  },
+  {
+    "input": "Where do you see yourself in 10 years?",
+    "output": "Discuss your long-term career aspirations, focusing on growth, leadership, or specialization in a certain area."
+  },
+  {
+    "input": "How do you prioritize your tasks when you have multiple deadlines?",
+    "output": "Discuss how you evaluate the urgency and importance of each task, and plan accordingly to meet deadlines."
+  },
+  {
+    "input": "Tell me about a time when you had to deal with a difficult stakeholder.",
+    "output": "Explain how you managed communication, understood their concerns, and found a resolution."
+  },
+  {
+    "input": "What is the most important factor to consider when making a decision at work?",
+    "output": "Discuss the need to consider the impact on team, company goals, resources, and time constraints."
+  },
+  {
+    "input": "How do you handle tight deadlines and multiple tasks?",
+    "output": "Explain how you organize your tasks, delegate when necessary, and ensure quality is maintained under pressure."
+  },
+  {
+    "input": "What motivates you to do your best work?",
+    "output": "Discuss intrinsic motivators like personal growth, the satisfaction of solving problems, and the impact of your work."
+  },
+  {
+    "input": "How do you stay updated with industry trends?",
+    "output": "Talk about subscribing to industry news, attending conferences, and networking with professionals."
+  },
+  {
+    "input": "What would you do if you didn’t know the answer to a question from a client?",
+    "output": "Explain how you would stay calm, seek clarification, and follow up with accurate information."
+  },
+  {
+    "input": "How do you build relationships with team members in a new company?",
+    "output": "Talk about being approachable, listening actively, and understanding team dynamics."
+  },
+  {
+    "input": "How do you handle criticism?",
+    "output": "Explain how you view criticism as a growth opportunity, listen attentively, and apply the feedback constructively."
+  },
+  {
+    "input": "What do you do if you disagree with your manager's approach to a problem?",
+    "output": "Describe how you would have a respectful conversation to share your point of view while maintaining professionalism."
+  },
+  {
+    "input": "Tell me about a time when you improved a process or system at work.",
+    "output": "Provide an example of a process improvement you implemented, how it benefited the team or company, and the results."
+  },
+  {
+    "input": "How do you handle tasks you don't enjoy?",
+    "output": "Talk about focusing on the bigger picture, staying professional, and managing your attitude towards the task."
+  },
+  {
+    "input": "What kind of work environment do you thrive in?",
+    "output": "Describe your ideal environment—whether it’s collaborative, fast-paced, or focused—and why it suits your style."
+  },
+  {
+    "input": "How do you approach learning new technology?",
+    "output": "Discuss how you keep a learning mindset, break down complex concepts, and practice hands-on to gain proficiency."
+  },
+  {
+    "input": "What steps do you take to ensure your work meets high standards?",
+    "output": "Talk about checking for errors, reviewing work thoroughly, and seeking feedback when necessary."
+  },
+  {
+    "input": "Tell me about a time when you had to quickly adapt to a change at work.",
+    "output": "Describe how you remained flexible, assessed the situation, and adjusted your approach to succeed."
+  },
+  {
+    "input": "What do you consider your biggest professional achievement?",
+    "output": "Describe a major achievement, highlighting how you made an impact and overcame challenges."
+  },
+  {
+    "input": "How do you deal with a lack of direction or unclear goals?",
+    "output": "Talk about how you clarify expectations, communicate with stakeholders, and define clear goals."
+  },
+  {
+    "input": "What strategies do you use to overcome procrastination?",
+    "output": "Discuss breaking tasks into smaller pieces, setting deadlines, and focusing on immediate actions to stay productive."
+  },
+  {
+    "input": "How do you handle situations where you’re required to learn on the job?",
+    "output": "Talk about being open to new challenges, using resources effectively, and asking for support when needed."
+  },
+  {
+    "input": "How do you ensure effective communication with remote teams?",
+    "output": "Discuss how you use communication tools, set clear expectations, and ensure regular check-ins to stay aligned with remote teams."
+  },
+  {
+    "input": "What makes you a good fit for this role?",
+    "output": "Talk about how your skills, experience, and values align with the job requirements and the company culture."
+  },
+  {
+    "input": "How do you stay organized in a fast-paced environment?",
+    "output": "Discuss how you prioritize tasks, use organizational tools, and maintain focus to meet deadlines."
+  },
+  {
+    "input": "How do you handle situations where you need to make decisions with limited information?",
+    "output": "Explain how you analyze available data, consult with others, and make informed decisions despite uncertainty."
+  },
+  {
+    "input": "Tell me about a time when you had to motivate a team.",
+    "output": "Provide an example of how you inspired and encouraged your team to meet a challenging goal or deadline."
+  },
+  {
+    "input": "How do you approach problem-solving?",
+    "output": "Discuss your step-by-step approach to understanding the problem, brainstorming solutions, testing ideas, and implementing the best option."
+  },
+  {
+    "input": "What would you do if you made a mistake at work?",
+    "output": "Talk about taking responsibility, learning from the mistake, and ensuring it doesn’t happen again."
+  },
+  {
+    "input": "How do you deal with changes in priorities?",
+    "output": "Explain how you assess the new priorities, adjust your plans accordingly, and stay flexible to deliver results."
+  },
+  {
+    "input": "How do you build trust within a team?",
+    "output": "Discuss how you build trust by being transparent, reliable, and supportive of team members."
+  },
+  {
+    "input": "What steps do you take to ensure customer satisfaction?",
+    "output": "Talk about understanding customer needs, providing timely solutions, and following up to ensure satisfaction."
+  },
+  {
+    "input": "What is your approach to continuous learning?",
+    "output": "Discuss how you stay curious, seek new knowledge, and engage in ongoing professional development."
+  },
+  {
+    "input": "How do you handle repetitive tasks?",
+    "output": "Talk about how you stay focused, maintain a positive attitude, and look for ways to improve efficiency."
+  },
+  {
+    "input": "How do you approach networking?",
+    "output": "Discuss how you actively engage with others, build meaningful relationships, and exchange ideas."
+  },
+  {
+    "input": "How do you evaluate success in your role?",
+    "output": "Talk about setting clear goals, measuring performance against them, and seeking feedback to improve."
+  },
+  {
+    "input": "How do you handle feedback from a manager or colleague?",
+    "output": "Explain how you receive feedback with an open mind, assess its value, and apply it to improve your work."
+  },
+  {
+    "input": "What motivates you to take on new responsibilities?",
+    "output": "Discuss how you seek growth opportunities, embrace challenges, and stay motivated to contribute to team success."
+  },
+  {
+    "input": "How do you handle unexpected changes in your workload?",
+    "output": "Talk about how you adjust your schedule, communicate with stakeholders, and prioritize tasks effectively."
+  },
+  {
+    "input": "How do you balance work and personal life?",
+    "output": "Discuss how you manage your time, set boundaries, and ensure you have time for both professional and personal commitments."
+  },
+  {
+    "input": "What is your approach to handling ambiguity in a project?",
+    "output": "Explain how you seek clarity, break the problem into smaller parts, and move forward with a flexible approach."
+  },
+  {
+    "input": "How do you motivate others in challenging situations?",
+    "output": "Talk about encouraging positivity, focusing on the end goal, and offering support and guidance when needed."
+  },
+  {
+    "input": "How do you deal with failure?",
+    "output": "Discuss how you learn from your mistakes, stay resilient, and use failures as opportunities for growth."
+  },
+  {
+    "input": "How do you handle tight deadlines?",
+    "output": "Talk about prioritizing tasks, staying organized, and maintaining focus under pressure."
+  },
+  {
+    "input": "What is your experience with team collaboration?",
+    "output": "Describe a situation where you worked successfully with a team to achieve a common goal."
+  },
+  {
+    "input": "How do you keep yourself updated with industry trends?",
+    "output": "Explain how you follow blogs, attend webinars, and participate in online communities to stay informed."
+  },
+  {
+    "input": "Describe a time you worked on a project with little guidance.",
+    "output": "Share an example where you took the initiative, solved problems, and delivered results with minimal supervision."
+  },
+  {
+    "input": "How do you handle conflicts with colleagues?",
+    "output": "Talk about how you stay calm, listen to both sides, and work towards a collaborative solution."
+  },
+  {
+    "input": "What skills do you hope to develop in this role?",
+    "output": "Discuss the specific skills or knowledge you want to gain and how they align with your career goals."
+  },
+  {
+    "input": "How do you approach multitasking?",
+    "output": "Explain how you prioritize tasks and manage multiple responsibilities without compromising quality."
+  },
+  {
+    "input": "What is the most challenging aspect of this role?",
+    "output": "Discuss the aspects of the job that you find challenging and how you plan to tackle them."
+  },
+  {
+    "input": "How do you measure success in your professional life?",
+    "output": "Talk about setting goals, meeting objectives, and receiving feedback as indicators of success."
+  },
+  {
+    "input": "What are you passionate about professionally?",
+    "output": "Discuss what excites you most in your career and why you are passionate about it."
+  },
+  {
+    "input": "How do you deal with negative feedback?",
+    "output": "Explain how you accept constructive criticism, analyze it, and take action to improve."
+  },
+  {
+    "input": "Tell me about a time you showed leadership.",
+    "output": "Provide an example where you took charge of a situation and guided others toward success."
+  },
+  {
+    "input": "How do you balance short-term tasks with long-term goals?",
+    "output": "Talk about how you manage immediate deadlines while keeping your eyes on the bigger picture."
+  },
+  {
+    "input": "Why do you think you would be a good fit for this role?",
+    "output": "Explain how your skills, experience, and values make you a strong candidate for this position."
+  },
+  {
+    "input": "How do you approach problem-solving when you don’t have all the necessary resources?",
+    "output": "Discuss how you use creativity, collaboration, and resourcefulness to solve problems with limited resources."
+  },
+  {
+    "input": "What is the most rewarding aspect of your work?",
+    "output": "Talk about the aspects of your job that give you a sense of fulfillment and satisfaction."
+  },
+  {
+    "input": "What steps do you take to ensure the quality of your work?",
+    "output": "Discuss your attention to detail, processes you follow, and methods for checking the quality of your output."
+  },
+  {
+    "input": "How do you stay motivated during monotonous tasks?",
+    "output": "Talk about how you maintain focus, set small goals, and find ways to stay engaged with repetitive work."
+  },
+  {
+    "input": "What is your approach to working with difficult colleagues?",
+    "output": "Explain how you handle difficult personalities, resolve conflicts, and maintain professionalism in the workplace."
+  },
+  {
+    "input": "How do you ensure that your work aligns with company objectives?",
+    "output": "Talk about how you understand the company’s goals and adjust your work to meet those objectives."
+  },
+  {
+    "input": "What is the best project you’ve worked on and why?",
+    "output": "Share details of a successful project, the skills you used, and what made it so rewarding."
+  },
+  {
+    "input": "How do you manage your time when handling multiple projects?",
+    "output": "Discuss how you prioritize tasks, stay organized, and track your progress across different projects."
+  },
+  {
+    "input": "What’s your experience with project management tools?",
+    "output": "Talk about tools you’ve used (e.g., Jira, Trello, Asana) and how they help you manage tasks and timelines."
+  },
+  {
+    "input": "Tell me about a time you went above and beyond for a customer.",
+    "output": "Provide an example where you exceeded customer expectations and how it impacted the customer relationship."
+  },
+  {
+    "input": "How do you prioritize your tasks?",
+    "output": "Explain how you decide which tasks to tackle first and how you manage your time effectively."
+  },
+  {
+    "input": "How do you stay productive during long work hours?",
+    "output": "Talk about how you take breaks, manage energy levels, and stay focused during long stretches of work."
+  },
+  {
+    "input": "How do you handle criticism from a supervisor?",
+    "output": "Explain how you accept feedback from a superior, reflect on it, and improve your work."
+  },
+  {
+    "input": "Describe a time you had to make a difficult decision.",
+    "output": "Share an example of a tough decision you made, the reasoning behind it, and the outcome."
+  },
+  {
+    "input": "What are your career aspirations?",
+    "output": "Talk about your long-term career goals and how this position fits into your broader career path."
+  },
+  {
+    "input": "How do you handle ambiguity in a project or task?",
+    "output": "Explain how you manage unclear situations by seeking clarification, planning flexibly, and moving forward with available information."
+  },
+  {
+    "input": "What makes you excited about this industry?",
+    "output": "Discuss your passion for the industry and why you’re motivated to work in it."
+  },
+  {
+    "input": "What’s your approach to working with a diverse team?",
+    "output": "Talk about how you value diversity, encourage inclusive communication, and collaborate with diverse perspectives."
+  },
+  {
+    "input": "How do you approach learning new skills?",
+    "output": "Explain how you take the initiative to learn new skills, including methods like online courses, mentorship, or self-study."
+  },
+  {
+    "input": "How do you handle conflicting priorities from different stakeholders?",
+    "output": "Talk about how you manage expectations, communicate clearly, and make decisions based on company goals."
+  },
+  {
+    "input": "What do you do to contribute to a positive team culture?",
+    "output": "Discuss how you promote collaboration, inclusivity, and positive interactions within a team."
+  },
+  {
+    "input": "How do you handle ambiguity when leading a team?",
+    "output": "Explain how you lead by example, provide clarity, and help the team stay focused during uncertain times."
+  },
+  {
+    "input": "How do you manage a project with tight budget constraints?",
+    "output": "Discuss how you prioritize resources, find cost-effective solutions, and manage the project to stay within budget."
+  },
+  {
+    "input": "How do you handle a situation where a team member is not contributing equally?",
+    "output": "Discuss how you address the issue privately, encourage collaboration, and ensure accountability while maintaining team harmony."
+  },
+  {
+    "input": "What role does feedback play in your professional growth?",
+    "output": "Explain how feedback helps you improve, how you actively seek it, and how you apply it to enhance your performance."
+  },
+  {
+    "input": "How do you ensure your work is aligned with company values?",
+    "output": "Talk about reviewing company values regularly and making decisions that reflect those principles."
+  },
+  {
+    "input": "Describe a time when you had to persuade someone to adopt your idea.",
+    "output": "Explain how you presented your case logically, addressed concerns, and successfully influenced the decision."
+  },
+  {
+    "input": "How do you handle a situation where you have to deliver bad news?",
+    "output": "Discuss being transparent, empathetic, and solution-oriented when communicating difficult information."
+  },
+  {
+    "input": "What do you do when you feel overwhelmed at work?",
+    "output": "Talk about strategies like prioritizing tasks, delegating, and taking short breaks to regain focus."
+  },
+  {
+    "input": "How do you approach mentoring or coaching others?",
+    "output": "Explain your method for guiding others, providing constructive feedback, and helping them grow professionally."
+  },
+  {
+    "input": "What steps do you take to build rapport with new colleagues?",
+    "output": "Discuss being approachable, asking questions, and finding common ground to establish strong working relationships."
+  },
+  {
+    "input": "How do you handle a situation where you disagree with company policy?",
+    "output": "Explain how you respectfully voice concerns while adhering to the policy unless changes are implemented."
+  },
+  {
+    "input": "What’s your approach to risk-taking in decision-making?",
+    "output": "Discuss how you assess risks, weigh pros and cons, and take calculated risks when necessary."
+  },
+  {
+    "input": "How do you stay innovative in your role?",
+    "output": "Talk about staying curious, experimenting with new approaches, and learning from industry trends."
+  },
+  {
+    "input": "Describe a time when you had to adapt to a new technology quickly.",
+    "output": "Explain how you learned the technology, applied it, and the impact it had on your work."
+  },
+  {
+    "input": "How do you handle a high-pressure presentation?",
+    "output": "Discuss preparation techniques, staying composed, and engaging the audience effectively."
+  },
+  {
+    "input": "What do you do to ensure effective cross-department collaboration?",
+    "output": "Talk about clear communication, understanding different team priorities, and aligning goals."
+  },
+  {
+    "input": "How do you manage a project with a remote team?",
+    "output": "Explain how you use collaboration tools, set clear expectations, and maintain regular check-ins."
+  },
+  {
+    "input": "What’s your strategy for maintaining focus during long meetings?",
+    "output": "Discuss active participation, note-taking, and staying engaged to contribute meaningfully."
+  },
+  {
+    "input": "How do you handle a situation where your idea is rejected?",
+    "output": "Explain how you accept feedback, learn from the experience, and refine your approach."
+  },
+  {
+    "input": "What’s your approach to delegating tasks effectively?",
+    "output": "Talk about assessing team strengths, providing clear instructions, and trusting others to deliver."
+  },
+  {
+    "input": "How do you ensure your work remains customer-centric?",
+    "output": "Discuss understanding customer needs, gathering feedback, and prioritizing their satisfaction."
+  },
+  {
+    "input": "Describe a time when you had to work with limited supervision.",
+    "output": "Explain how you took initiative, stayed disciplined, and delivered results independently."
+  },
+  {
+    "input": "How do you handle a situation where a project’s scope changes unexpectedly?",
+    "output": "Discuss reassessing priorities, communicating with stakeholders, and adjusting plans accordingly."
+  },
+  {
+    "input": "What’s your approach to giving constructive feedback?",
+    "output": "Explain how you deliver feedback respectfully, focusing on improvement rather than criticism."
+  },
+  {
+    "input": "How do you stay adaptable in a fast-changing industry?",
+    "output": "Talk about continuous learning, embracing change, and staying updated with trends."
+  },
+  {
+    "input": "How do you handle a disagreement with a senior leader?",
+    "output": "Discuss presenting your perspective professionally while respecting their authority and experience."
+  },
+  {
+    "input": "What’s your strategy for managing work-life balance during busy periods?",
+    "output": "Explain how you set boundaries, prioritize tasks, and ensure personal well-being."
+  },
+  {
+    "input": "How do you approach problem-solving in a team setting?",
+    "output": "Discuss brainstorming, leveraging diverse perspectives, and collaborating to find solutions."
+  },
+  {
+    "input": "What’s your experience with agile methodologies?",
+    "output": "Talk about how you’ve used agile frameworks like Scrum or Kanban to improve productivity."
+  },
+  {
+    "input": "How do you ensure accountability in your work?",
+    "output": "Explain setting clear goals, tracking progress, and taking responsibility for outcomes."
+  },
+  {
+    "input": "Describe a time when you improved team efficiency.",
+    "output": "Share how you identified inefficiencies, implemented changes, and measured success."
+  },
+  {
+    "input": "How do you handle a situation where you lack expertise in a required area?",
+    "output": "Discuss seeking guidance, upskilling quickly, and collaborating with experts."
+  },
+  {
+    "input": "What’s your approach to managing stakeholder expectations?",
+    "output": "Explain setting realistic expectations, communicating transparently, and delivering on commitments."
+  },
+  {
+    "input": "How do you stay motivated when working on repetitive tasks?",
+    "output": "Talk about finding small challenges, setting personal goals, and maintaining a positive mindset."
+  },
+  {
+    "input": "What’s your strategy for handling last-minute requests?",
+    "output": "Discuss assessing urgency, reprioritizing tasks, and communicating timelines clearly."
+  },
+  {
+    "input": "How do you ensure your team stays aligned with company goals?",
+    "output": "Explain setting clear objectives, regular check-ins, and reinforcing the bigger picture."
+  },
+  {
+    "input": "Describe a time when you had to resolve a conflict between team members.",
+    "output": "Share how you mediated the situation, encouraged open dialogue, and restored collaboration."
+  },
+  {
+    "input": "How do you handle a situation where you make a mistake in front of a client?",
+    "output": "Discuss acknowledging the error, correcting it promptly, and rebuilding trust."
+  },
+  {
+    "input": "What’s your approach to continuous improvement in your role?",
+    "output": "Talk about seeking feedback, identifying growth areas, and implementing changes."
+  },
+  {
+    "input": "How do you manage a project with competing deadlines?",
+    "output": "Explain prioritizing tasks, negotiating timelines, and ensuring quality isn’t compromised."
+  },
+  {
+    "input": "What’s your strategy for staying productive while working remotely?",
+    "output": "Discuss setting a routine, minimizing distractions, and using productivity tools."
+  },
+  {
+    "input": "How do you approach decision-making when data is limited?",
+    "output": "Explain using intuition, consulting experts, and making the best possible choice with available information."
+  },
+  {
+    "input": "Describe a time when you had to lead a team through a major change.",
+    "output": "Share how you communicated the vision, addressed concerns, and ensured smooth transition."
+  },
+  {
+    "input": "How do you handle a situation where a colleague takes credit for your work?",
+    "output": "Discuss addressing the issue professionally, ensuring recognition, and maintaining a positive relationship."
+  },
+  {
+    "input": "What’s your approach to fostering creativity in a team?",
+    "output": "Talk about encouraging brainstorming, creating a safe space for ideas, and rewarding innovation."
+  },
+  {
+    "input": "How do you ensure your work meets regulatory or compliance standards?",
+    "output": "Explain staying updated on regulations, double-checking work, and seeking expert reviews."
+  },
+  {
+    "input": "Describe a time when you had to negotiate a difficult agreement.",
+    "output": "Share how you found common ground, remained flexible, and reached a mutually beneficial outcome."
+  },
+  {
+    "input": "How do you handle a situation where you’re assigned a task outside your expertise?",
+    "output": "Discuss researching, seeking guidance, and approaching the task with a learning mindset."
+  },
+  {
+    "input": "What’s your strategy for managing a high-performing team?",
+    "output": "Explain setting high standards, providing autonomy, and recognizing achievements."
+  },
+  {
+    "input": "How do you approach ethical dilemmas at work?",
+    "output": "Discuss evaluating consequences, consulting policies, and making principled decisions."
+  },
+  {
+    "input": "Describe a time when you had to influence without authority.",
+    "output": "Share how you built credibility, communicated persuasively, and gained buy-in."
+  },
+  {
+    "input": "How do you handle a situation where a project is behind schedule?",
+    "output": "Discuss identifying bottlenecks, reallocating resources, and communicating revised timelines."
+  },
+  {
+    "input": "What’s your approach to managing a diverse team?",
+    "output": "Talk about fostering inclusivity, valuing different perspectives, and ensuring equal opportunities."
+  },
+  {
+    "input": "How do you ensure your team remains motivated during setbacks?",
+    "output": "Explain focusing on progress, maintaining transparency, and reinforcing team morale."
+  },
+  {
+    "input": "Describe a time when you had to present complex information simply.",
+    "output": "Share how you broke down the information, used visuals, and ensured clarity for the audience."
+  },
+  {
+    "input": "How do you handle a situation where a client is unhappy with your work?",
+    "output": "Discuss listening to concerns, offering solutions, and ensuring their satisfaction."
+  },
+  {
+    "input": "What’s your approach to building long-term client relationships?",
+    "output": "Talk about consistent communication, delivering value, and anticipating client needs."
+  },
+  {
+    "input": "How do you manage a situation where priorities shift suddenly?",
+    "output": "Explain reassessing tasks, communicating changes, and staying adaptable."
+  },
+  {
+    "input": "Describe a time when you had to work with a tight budget.",
+    "output": "Share how you optimized resources, cut unnecessary costs, and delivered results efficiently."
+  },
+  {
+    "input": "How do you approach setting long-term career goals?",
+    "output": "Discuss aligning goals with personal values, industry trends, and continuous growth."
+  },
+  {
+    "input": "What’s your strategy for handling a micromanaging supervisor?",
+    "output": "Explain building trust through reliability, proactive updates, and open communication."
+  },
+  {
+    "input": "How do you ensure your team meets quality standards?",
+    "output": "Talk about setting clear benchmarks, regular reviews, and continuous feedback."
+  },
+  {
+    "input": "Describe a time when you had to learn a new skill under pressure.",
+    "output": "Share how you identified key resources, practiced quickly, and applied the skill effectively."
+  },
+  {
+    "input": "How do you handle a situation where a decision is unpopular with your team?",
+    "output": "Discuss explaining the rationale, addressing concerns, and maintaining team cohesion."
+  },
+  {
+    "input": "What’s your approach to managing stress during high-stakes projects?",
+    "output": "Explain techniques like mindfulness, delegation, and maintaining perspective."
+  },
+  {
+    "input": "How do you ensure your team stays innovative?",
+    "output": "Talk about encouraging experimentation, rewarding creativity, and staying open to new ideas."
+  },
+  {
+    "input": "Describe a time when you had to advocate for a team member.",
+    "output": "Share how you presented their case, highlighted contributions, and secured recognition."
+  },
+  {
+    "input": "How do you handle a situation where you disagree with peer feedback?",
+    "output": "Discuss reflecting on the feedback, seeking clarification, and responding professionally."
+  },
+  {
+    "input": "What’s your approach to onboarding new team members?",
+    "output": "Explain providing clear guidance, assigning a mentor, and ensuring a smooth transition."
+  },
+  {
+    "input": "How do you manage a situation where a project’s requirements are unclear?",
+    "output": "Discuss asking clarifying questions, documenting assumptions, and seeking alignment."
+  },
+  {
+    "input": "Describe a time when you had to pivot a project’s direction.",
+    "output": "Share how you assessed the change, communicated with stakeholders, and adapted quickly."
+  },
+  {
+    "input": "How do you handle a situation where you’re overworked?",
+    "output": "Discuss prioritizing tasks, delegating when possible, and communicating workload concerns."
+  },
+  {
+    "input": "What’s your approach to fostering teamwork in a remote setting?",
+    "output": "Talk about virtual team-building activities, regular check-ins, and collaborative tools."
+  },
+  {
+    "input": "How do you ensure your work aligns with industry best practices?",
+    "output": "Explain staying updated on trends, benchmarking against peers, and applying proven methods."
+  },
+  {
+    "input": "Describe a time when you had to manage a crisis at work.",
+    "output": "Share how you remained calm, coordinated a response, and minimized negative impact."
+  },
+  {
+    "input": "How do you handle a situation where a team member resists change?",
+    "output": "Discuss understanding their concerns, explaining benefits, and providing support."
+  },
+  {
+    "input": "What’s your approach to maintaining confidentiality at work?",
+    "output": "Explain following company policies, securing sensitive information, and respecting privacy."
+  },
+  {
+    "input": "How do you manage a situation where you receive conflicting instructions?",
+    "output": "Discuss seeking clarification from stakeholders, aligning priorities, and documenting decisions."
+  },
+  {
+    "input": "Describe a time when you had to work with a difficult vendor.",
+    "output": "Share how you managed the relationship, set clear expectations, and resolved issues professionally."
+  },
+  {
+    "input": "How do you handle a situation where you’re asked to do something unethical?",
+    "output": "Explain standing by your principles, escalating concerns appropriately, and seeking guidance."
+  },
+  {
+    "input": "What’s your approach to managing a cross-functional team?",
+    "output": "Talk about facilitating communication, aligning goals, and ensuring collaboration across departments."
+  },
+  {
+    "input": "How do you ensure your team remains engaged during long projects?",
+    "output": "Discuss celebrating milestones, providing variety, and maintaining open communication."
+  },
+  {
+    "input": "Describe a time when you had to simplify a complex process.",
+    "output": "Share how you analyzed inefficiencies, redesigned steps, and improved workflow."
+  },
+  {
+    "input": "How do you handle a situation where a client changes requirements last-minute?",
+    "output": "Discuss assessing feasibility, communicating impacts, and adjusting plans accordingly."
+  },
+  {
+    "input": "What’s your approach to managing a high-stress work environment?",
+    "output": "Explain techniques like prioritization, mindfulness, and fostering a supportive team culture."
+  },
+  {
+    "input": "How do you ensure your team delivers consistent results?",
+    "output": "Talk about setting clear expectations, monitoring progress, and providing feedback."
+  },
+  {
+    "input": "Describe a time when you had to recover a failing project.",
+    "output": "Share how you identified root causes, implemented corrective actions, and regained stakeholder confidence."
+  },
+  {
+    "input": "How do you handle a situation where you must deliver negative feedback to a superior?",
+    "output": "Discuss framing feedback constructively, providing solutions, and maintaining professionalism."
+  },
+  {
+    "input": "What’s your approach to staying organized in a chaotic work environment?",
+    "output": "Explain using task management tools, setting daily priorities, and maintaining focus."
+  },
+  {
+    "input": "How do you manage a situation where team morale is low?",
+    "output": "Discuss identifying causes, boosting engagement, and reinforcing team purpose."
+  },
+  {
+    "input": "Describe a time when you had to make a quick decision with limited information.",
+    "output": "Share how you assessed risks, trusted your judgment, and acted decisively."
+  },
+  {
+    "input": "How do you handle a situation where you’re given unrealistic deadlines?",
+    "output": "Discuss negotiating timelines, setting realistic expectations, and proposing alternatives."
+  },
+  {
+    "input": "What’s your approach to ensuring diversity and inclusion in hiring?",
+    "output": "Talk about unbiased recruitment practices, diverse interview panels, and inclusive job descriptions."
+  },
+  {
+    "input": "How do you manage a situation where a key team member leaves unexpectedly?",
+    "output": "Discuss redistributing tasks, hiring/training replacements, and maintaining team stability."
+  },
+  {
+    "input": "Describe a time when you had to advocate for a process improvement.",
+    "output": "Share how you presented data, gained stakeholder buy-in, and implemented the change."
+  },
+  {
+    "input": "How do you handle a situation where you’re not meeting your own performance expectations?",
+    "output": "Discuss self-assessment, seeking feedback, and creating an improvement plan."
+  },
+  {
+    "input": "What’s your approach to managing a team with varying skill levels?",
+    "output": "Explain tailoring support, providing training, and leveraging individual strengths."
+  },
+  {
+    "input": "How do you ensure your decisions are data-driven?",
+    "output": "Talk about gathering relevant data, analyzing trends, and validating assumptions."
+  },
+  {
+    "input": "Describe a time when you had to balance short-term wins with long-term strategy.",
+    "output": "Share how you aligned immediate actions with broader goals without compromising either."
+  },
+  {
+    "input": "How do you handle a situation where a project’s success metrics are unclear?",
+    "output": "Discuss defining measurable outcomes, setting KPIs, and aligning with stakeholders."
+  },
+  {
+    "input": "What’s your approach to managing up (working with senior leadership)?",
+    "output": "Explain anticipating their needs, communicating proactively, and delivering reliable results."
+  },
+  {
+    "input": "How do you ensure your team remains customer-focused?",
+    "output": "Talk about reinforcing customer needs in decision-making and gathering regular feedback."
+  },
+  {
+    "input": "Describe a time when you had to lead without formal authority.",
+    "output": "Share how you influenced others, built trust, and drove initiatives forward."
+  },
+  {
+    "input": "How do you handle a situation where you must deliver unfavorable news to stakeholders?",
+    "output": "Discuss being transparent, providing context, and focusing on solutions."
+  },
+  {
+    "input": "What’s your approach to fostering a culture of accountability?",
+    "output": "Explain setting clear expectations, leading by example, and recognizing responsible behavior."
+  },
+  {
+    "input": "What motivates you to perform well in your job?",
+    "output": "Discuss what drives your motivation, whether it's personal goals, team success, or contributing to the company."
+  },
+  {
+    "input": "How do you handle change in the workplace?",
+    "output": "Explain how you adapt to new environments, embrace change, and stay productive during transitions."
+  },
+  {
+    "input": "How do you manage long-term projects?",
+    "output": "Talk about how you plan, break down tasks, and stay organized to manage projects that take a long time to complete."
+  },
+  {
+    "input": "How do you deal with difficult customers?",
+    "output": "Describe a situation where you dealt with a challenging customer and how you resolved their issue with professionalism."
+  },
+  {
+    "input": "What’s your approach to continuous learning?",
+    "output": "Explain how you keep improving your skills through self-learning, formal education, and seeking feedback."
+  },
+  {
+    "input": "How do you approach innovation in your role?",
+    "output": "Talk about how you bring new ideas to the table, experiment with solutions, and push for creative problem-solving."
+  },
+  {
+    "input": "What do you think is the most important quality for a leader?",
+    "output": "Discuss the leadership qualities you value most, such as empathy, vision, or the ability to inspire others."
+  },
+  {
+    "input": "How do you maintain a work-life balance?",
+    "output": "Explain how you manage your time to ensure you can be productive at work while also enjoying personal time."
+  },
+  {
+    "input": "What do you consider the biggest challenge in this role?",
+    "output": "Discuss the main challenges this job may present and how you would approach solving them."
+  },
+  {
+    "input": "How do you handle a situation where you disagree with your manager?",
+    "output": "Talk about how you approach disagreements professionally, respectfully, and with a focus on finding solutions."
+  },
+  {
+    "input": "What was the most difficult project you worked on?",
+    "output": "Share details of a challenging project and the steps you took to overcome obstacles and complete it successfully."
+  },
+  {
+    "input": "What do you enjoy most about working in this field?",
+    "output": "Explain what excites you about your industry and what you find fulfilling in your work."
+  },
+  {
+    "input": "How do you handle tight deadlines in a fast-paced environment?",
+    "output": "Talk about strategies you use to stay organized, keep calm, and meet deadlines under pressure."
+  },
+  {
+    "input": "What role does communication play in your work?",
+    "output": "Discuss how you communicate with colleagues, clients, and stakeholders to ensure projects run smoothly."
+  },
+  {
+    "input": "What do you consider to be your most significant professional achievement?",
+    "output": "Share an accomplishment you're particularly proud of and the impact it had on your team or company."
+  },
+  {
+    "input": "What is your experience with data analysis and interpretation?",
+    "output": "Discuss how you handle data, analyze trends, and use data to inform decisions in your role."
+  },
+  {
+    "input": "How do you stay organized when managing multiple tasks?",
+    "output": "Talk about tools, methods, or habits you use to stay on top of your responsibilities and avoid missing deadlines."
+  },
+  {
+    "input": "What has been your experience with customer service?",
+    "output": "Describe how you interact with customers, address their needs, and ensure a positive experience."
+  },
+  {
+    "input": "How do you ensure accuracy in your work?",
+    "output": "Talk about your attention to detail, review processes, and methods to maintain accuracy in your tasks."
+  },
+  {
+    "input": "What kind of work environment do you thrive in?",
+    "output": "Discuss whether you prefer working in a collaborative team environment, independently, or in a more structured or flexible setting."
+  },
+  {
+    "input": "How do you deal with setbacks and obstacles in a project?",
+    "output": "Explain how you face challenges, maintain a positive attitude, and find ways to get back on track."
+  },
+  {
+    "input": "What experience do you have with project management?",
+    "output": "Discuss your experience managing projects, including tools you’ve used and how you ensure success from start to finish."
+  },
+  {
+    "input": "How do you approach long-term career growth?",
+    "output": "Talk about the steps you take to develop professionally and how you plan your future career path."
+  },
+  {
+    "input": "How do you deal with high-pressure situations?",
+    "output": "Describe how you stay calm, focused, and productive when facing high-stakes or stressful situations."
+  },
+  {
+    "input": "How do you prioritize tasks when everything seems urgent?",
+    "output": "Talk about how you evaluate tasks, delegate, and focus on what will drive the most impact."
+  },
+  {
+    "input": "What tools do you use for productivity and task management?",
+    "output": "Explain how you use tools like to-do lists, calendars, and task management software to stay organized."
+  },
+  {
+    "input": "What do you think is the key to building strong relationships with colleagues?",
+    "output": "Discuss the importance of communication, trust, and collaboration in fostering professional relationships."
+  },
+  {
+    "input": "What role does feedback play in your development?",
+    "output": "Explain how you actively seek and use feedback to improve your performance and achieve goals."
+  },
+  {
+    "input": "What’s the most important lesson you’ve learned in your career?",
+    "output": "Share a valuable lesson or realization you've had during your career and how it shaped your professional approach."
+  },
+  {
+    "input": "How do you manage competing priorities across different projects?",
+    "output": "Discuss how you assess project requirements, delegate tasks, and manage time effectively when juggling multiple priorities."
+  },
+  {
+    "input": "How do you evaluate the success of a project or initiative?",
+    "output": "Talk about the metrics, benchmarks, and results you use to measure the success of a project."
+  },
+  {
+    "input": "What excites you about the challenges of this job?",
+    "output": "Describe what aspects of the role you look forward to and how they align with your skills and interests."
+  },
+  {
+    "input": "What would you do if you were asked to perform a task outside your job description?",
+    "output": "Discuss how you would assess the task, ask for clarification if needed, and find a way to contribute positively."
+  },
+  {
+    "input": "How do you stay focused when working on repetitive tasks?",
+    "output": "Explain how you stay motivated, take breaks, and maintain productivity during monotonous tasks."
+  },
+  {
+    "input": "What is your approach to learning new software or technologies?",
+    "output": "Talk about how you approach learning new tools, whether through self-learning, tutorials, or hands-on practice."
+  },
+  {
+    "input": "How do you ensure teamwork in a remote work environment?",
+    "output": "Discuss the strategies you use to stay connected, collaborate, and maintain team spirit while working remotely."
+  },
+  {
+    "input": "How do you handle criticism of your ideas or proposals?",
+    "output": "Talk about how you accept criticism constructively, use it to refine your ideas, and improve your approach."
+  },
+  {
+    "input": "What makes you stand out from other candidates for this role?",
+    "output": "Highlight the unique qualities, experiences, or skills that differentiate you from other applicants."
+  },
+  {
+    "input": "What are you most passionate about in your career?",
+    "output": "Discuss the aspects of your work that excite and motivate you the most."
+  },
+  {
+    "input": "How do you ensure that you stay productive during slow periods?",
+    "output": "Talk about how you use slower times to focus on personal development, learning, or improving work processes."
+  },
+  {
+    "input": "How do you ensure the quality of your work?",
+    "output": "Describe the methods or processes you use to check and maintain high standards in your work."
+  },
+  {
+    "input": "What is the best way to handle a situation where you're asked to do something you don't know how to do?",
+    "output": "Explain how you would take the initiative to learn, ask questions, and get the support needed to succeed."
+  },
+  {
+    "input": "How do you balance multiple priorities in your role?",
+    "output": "Discuss how you manage competing demands, set priorities, and stay organized to meet all requirements."
+  },
+  {
+    "input": "How would you explain a technical concept to a non-technical person?",
+    "output": "Talk about how you simplify complex information, break it down into understandable chunks, and use analogies or visuals."
+  },
+  {
+    "input": "What would you do if you encountered a roadblock in a project?",
+    "output": "Discuss how you would identify the issue, seek help if necessary, and work towards finding a solution."
+  },
+  {
+    "input": "How do you stay motivated when working on monotonous tasks?",
+    "output": "Talk about how you maintain focus, set goals, and find ways to keep your energy up during repetitive tasks."
+  },
+  {
+    "input": "How do you prioritize your professional development?",
+    "output": "Describe how you set learning goals, seek feedback, and identify areas for growth."
+  },
+  {
+    "input": "Tell me about a time you had to make a quick decision with limited information.",
+    "output": "Explain the situation, how you assessed it, and what steps you took to make an informed decision despite the uncertainty."
+  },
+  {
+    "input": "What do you do when faced with an unexpected challenge?",
+    "output": "Discuss how you assess the situation, stay calm, and adapt your approach to overcome the challenge."
+  },
+  {
+    "input": "How would your colleagues describe your work ethic?",
+    "output": "Talk about how others view your work habits, such as your reliability, commitment, and dedication to quality."
+  },
+  {
+    "input": "How do you handle ambiguity in a project or task?",
+    "output": "Explain how you approach unclear situations, break down problems, and make decisions even when details are missing."
+  },
+  {
+    "input": "What kind of work environment do you thrive in?",
+    "output": "Discuss the aspects of a work environment that help you perform at your best, such as support from colleagues or autonomy."
+  },
+  {
+    "input": "Describe a situation where you had to collaborate with a difficult team member.",
+    "output": "Talk about how you navigated the challenges, communicated effectively, and worked toward a positive outcome."
+  },
+  {
+    "input": "How do you handle failure?",
+    "output": "Discuss how you view failure as an opportunity to learn, adapt, and improve your future performance."
+  },
+  {
+    "input": "How do you approach new projects that you have never worked on before?",
+    "output": "Explain how you research, plan, and seek guidance to ensure you're well-prepared to take on new challenges."
+  },
+  {
+    "input": "Tell me about a time when you had to deliver results under pressure.",
+    "output": "Describe the situation, how you handled the pressure, and what strategies helped you deliver high-quality results on time."
+  },
+  {
+    "input": "What is the biggest challenge you've faced in your career so far?",
+    "output": "Talk about a particularly tough situation, how you managed it, and the lessons you learned."
+  },
+  {
+    "input": "How do you stay up to date with industry trends?",
+    "output": "Describe the methods you use to stay informed, such as attending webinars, reading industry blogs, or networking."
+  },
+  {
+    "input": "How would you handle a situation where you are working on multiple projects with conflicting deadlines?",
+    "output": "Explain how you would assess each project, prioritize tasks, and communicate effectively to meet all deadlines."
+  },
+  {
+    "input": "How do you ensure that you maintain a high level of productivity?",
+    "output": "Talk about your approach to task management, time optimization, and staying focused to achieve results."
+  },
+  {
+    "input": "Describe a time when you disagreed with a team member or manager. How did you handle it?",
+    "output": "Discuss the disagreement, how you communicated your perspective, and how you worked together to find a solution."
+  },
+  {
+    "input": "How do you stay organized in a busy environment?",
+    "output": "Talk about tools, techniques, or habits you use to stay organized and maintain focus in a hectic environment."
+  },
+  {
+    "input": "What are your long-term career goals?",
+    "output": "Discuss your aspirations for the future and how you plan to achieve them through continuous growth and opportunities."
+  },
+  {
+    "input": "How do you handle feedback that you don't agree with?",
+    "output": "Explain how you remain open to feedback, respectfully express your perspective, and find ways to use the feedback to improve."
+  },
+  {
+    "input": "Tell me about a time when you had to adapt to a new work culture.",
+    "output": "Discuss how you adjusted to a new team dynamic, worked to understand the culture, and integrated smoothly."
+  },
+  {
+    "input": "What strategies do you use to ensure successful teamwork?",
+    "output": "Talk about the key elements of successful teamwork, such as clear communication, trust, and shared goals."
+  },
+  {
+    "input": "How do you manage stress and prevent burnout?",
+    "output": "Discuss your methods for managing stress, maintaining balance, and recognizing when you need a break."
+  },
+  {
+    "input": "What is the most important thing you learned in your previous role?",
+    "output": "Share the most valuable lesson you've gained from your previous job and how it has shaped your approach to work."
+  },
+  {
+    "input": "What are your expectations for this role?",
+    "output": "Describe what you expect from this position in terms of growth, challenges, and opportunities for impact."
+  },
+  {
+    "input": "How do you keep your skills up-to-date in a fast-paced industry?",
+    "output": "Talk about how you engage in continuous learning, attend conferences, or participate in industry groups to stay current."
+  },
+  {
+    "input": "How do you ensure clear communication with your team?",
+    "output": "Discuss how you make sure that information is effectively shared, understood, and acted upon within your team."
+  },
+  {
+    "input": "How do you prioritize tasks when you have a heavy workload?",
+    "output": "Explain how you determine which tasks are most important, delegate when needed, and focus on delivering high-impact work."
+  },
+  {
+    "input": "What motivates you to succeed in challenging situations?",
+    "output": "Talk about the factors that drive you to keep going and push through difficulties, such as personal growth or helping the team."
+  },
+  {
+    "input": "How do you handle disagreements with customers or clients?",
+    "output": "Describe how you would resolve conflicts respectfully, listen to their concerns, and work to find mutually beneficial solutions."
+  },
+  {
+    "input": "How do you balance being a team player and taking initiative?",
+    "output": "Explain how you strike a balance between collaborating with your team and taking independent actions when needed."
+  },
+  {
+    "input": "Tell me about a time when you had to step up and lead a project.",
+    "output": "Describe the situation, how you took on a leadership role, and how you guided the team to success."
+  },
+  {
+    "input": "How do you ensure that your work meets company standards?",
+    "output": "Talk about the processes, checks, and communication you use to make sure your work aligns with company goals and expectations."
+  },
+  {
+    "input": "What are you most proud of in your career?",
+    "output": "Discuss a specific achievement or accomplishment that you're particularly proud of in your professional journey."
+  },
+  {
+    "input": "How would you approach managing a project with a tight deadline?",
+    "output": "Explain how you would break the project into manageable tasks, prioritize effectively, and communicate with the team to meet deadlines."
+  },
+  {
+    "input": "How do you react when things don’t go as planned?",
+    "output": "Talk about how you adjust your approach, stay flexible, and find alternative solutions to meet objectives."
+  },
+  {
+    "input": "How do you approach working with people from diverse backgrounds?",
+    "output": "Describe how you build positive relationships with individuals from different backgrounds and perspectives."
+  },
+  {
+    "input": "Tell me about a time when you had to learn something new quickly.",
+    "output": "Describe how you approached learning a new skill or concept under time pressure and the results you achieved."
+  },
+  {
+    "input": "How do you ensure that you maintain a good work-life balance?",
+    "output": "Talk about the strategies you use to manage your work commitments while also making time for personal activities and rest."
+  },
+  {
+    "input": "How do you stay motivated when faced with setbacks?",
+    "output": "Explain how you maintain your motivation and focus on your goals when things don’t go as planned."
+  },
+  {
+    "input": "How do you handle competing deadlines and priorities?",
+    "output": "Discuss how you prioritize tasks and communicate with stakeholders to manage competing deadlines effectively."
+  },
+  {
+    "input": "What kind of work culture do you think fosters the most productivity?",
+    "output": "Describe the key elements of a productive work culture and how they impact individual and team performance."
+  },
+  {
+    "input": "Tell me about a time when you worked on a project that required you to learn new skills.",
+    "output": "Talk about a project where you acquired new knowledge or technical skills to contribute effectively."
+  },
+  {
+    "input": "How do you handle negative feedback from a supervisor?",
+    "output": "Explain how you receive constructive criticism, reflect on it, and use it to improve your performance."
+  },
+  {
+    "input": "How do you prioritize customer needs while balancing other responsibilities?",
+    "output": "Discuss how you manage competing priorities and ensure that customer needs are met while handling other tasks."
+  },
+  {
+    "input": "Tell me about a time you had to resolve a conflict with a team member.",
+    "output": "Describe a conflict, how you resolved it, and the steps you took to restore positive working relationships."
+  },
+  {
+    "input": "How do you stay productive when you're working from home?",
+    "output": "Talk about the strategies or tools you use to stay focused, organized, and productive in a remote work environment."
+  },
+  {
+    "input": "What do you think is the most important skill for success in this industry?",
+    "output": "Discuss the key skills that contribute to success in your field, such as technical expertise, communication, or problem-solving."
+  },
+  {
+    "input": "How do you handle a situation where a client is unresponsive during a critical project phase?",
+    "output": "Discuss proactive communication, setting clear deadlines, and escalating if necessary while maintaining professionalism."
+  },
+  {
+    "input": "What’s your approach to managing a team with generational differences?",
+    "output": "Talk about leveraging diverse strengths, fostering mutual respect, and adapting communication styles."
+  },
+  {
+    "input": "Describe a time when you had to use creativity to solve a technical problem.",
+    "output": "Share how you thought outside the box, experimented with solutions, and achieved results."
+  },
+  {
+    "input": "How do you ensure accessibility in your work (e.g., design, content, or products)?",
+    "output": "Explain following accessibility guidelines, testing with diverse users, and advocating for inclusivity."
+  },
+  {
+    "input": "What’s your strategy for managing a project with stakeholders in different time zones?",
+    "output": "Discuss scheduling overlaps, asynchronous communication, and using collaboration tools effectively."
+  },
+  {
+    "input": "How do you handle a situation where your team is resistant to new technology?",
+    "output": "Explain demonstrating benefits, providing training, and addressing concerns empathetically."
+  },
+  {
+    "input": "Describe a time when you had to analyze large datasets to make a decision.",
+    "output": "Share tools/methods used, key insights, and how they informed your action."
+  },
+  {
+    "input": "How do you approach sustainability in your work?",
+    "output": "Talk about reducing waste, advocating for eco-friendly practices, and aligning with company goals."
+  },
+  {
+    "input": "What’s your experience with crisis communication?",
+    "output": "Describe how you crafted messages, managed public perception, and coordinated responses."
+  },
+  {
+    "input": "How do you handle a situation where a competitor releases a better product?",
+    "output": "Discuss analyzing their strengths, improving your offering, and focusing on unique value."
+  },
+  {
+    "input": "Describe a time when you had to train someone remotely.",
+    "output": "Share tools used, how you ensured engagement, and measured their progress."
+  },
+  {
+    "input": "How do you approach pricing strategy for a new product?",
+    "output": "Explain market research, cost analysis, and value-based pricing considerations."
+  },
+  {
+    "input": "What’s your strategy for reducing employee turnover?",
+    "output": "Talk about fostering growth, recognizing contributions, and improving workplace culture."
+  },
+  {
+    "input": "How do you handle a situation where a vendor delivers subpar quality?",
+    "output": "Discuss reviewing contracts, communicating expectations, and exploring alternatives."
+  },
+  {
+    "input": "Describe a time when you had to present to a skeptical audience.",
+    "output": "Share how you addressed concerns, used data persuasively, and won buy-in."
+  },
+  {
+    "input": "How do you ensure psychological safety in your team?",
+    "output": "Explain encouraging open dialogue, modeling vulnerability, and addressing issues constructively."
+  },
+  {
+    "input": "What’s your approach to brainstorming sessions?",
+    "output": "Discuss setting clear goals, encouraging wild ideas, and using structured frameworks."
+  },
+  {
+    "input": "How do you handle a situation where a project’s ROI is unclear?",
+    "output": "Explain defining metrics, tracking progress, and adjusting strategies based on data."
+  },
+  {
+    "input": "Describe a time when you had to work with a legacy system.",
+    "output": "Share challenges faced, how you modernized processes, and ensured stability."
+  },
+  {
+    "input": "How do you approach A/B testing in marketing or product development?",
+    "output": "Talk about hypothesis setting, sample sizes, and interpreting results statistically."
+  },
+  {
+    "input": "What’s your experience with international business negotiations?",
+    "output": "Describe cultural considerations, communication styles, and achieving mutual wins."
+  },
+  {
+    "input": "How do you handle a situation where a team member is burned out?",
+    "output": "Discuss redistributing workload, offering support, and promoting work-life balance."
+  },
+  {
+    "input": "Describe a time when you had to pivot a business strategy.",
+    "output": "Share market signals, decision-making process, and outcomes."
+  },
+  {
+    "input": "How do you approach user experience (UX) research?",
+    "output": "Explain methods like surveys, usability testing, and persona development."
+  },
+  {
+    "input": "What’s your strategy for managing a PR crisis?",
+    "output": "Discuss transparency, swift response, and reputation repair tactics."
+  },
+  {
+    "input": "How do you handle a situation where ethical concerns arise in data usage?",
+    "output": "Explain adhering to regulations, consulting ethics boards, and prioritizing privacy."
+  },
+  {
+    "input": "Describe a time when you had to reduce operational costs without layoffs.",
+    "output": "Share process optimizations, vendor renegotiations, and efficiency gains."
+  },
+  {
+    "input": "How do you approach supply chain disruptions?",
+    "output": "Talk about diversifying suppliers, inventory buffers, and risk assessment."
+  },
+  {
+    "input": "What’s your experience with scaling a startup?",
+    "output": "Describe challenges in hiring, processes, and maintaining culture during growth."
+  },
+  {
+    "input": "How do you handle a situation where a product launch fails?",
+    "output": "Discuss post-mortem analysis, customer communication, and iterative improvements."
+  },
+  {
+    "input": "Describe a time when you had to advocate for diversity in hiring.",
+    "output": "Share data used, stakeholder persuasion, and implemented policies."
+  },
+  {
+    "input": "How do you approach conflict resolution between executives?",
+    "output": "Explain facilitating dialogue, aligning on goals, and mediating impartially."
+  },
+  {
+    "input": "What’s your strategy for managing a remote team across cultures?",
+    "output": "Discuss time zone fairness, cultural sensitivity training, and inclusive practices."
+  },
+  {
+    "input": "How do you handle a situation where a key metric is declining?",
+    "output": "Explain root cause analysis, corrective actions, and monitoring progress."
+  },
+  {
+    "input": "Describe a time when you had to implement automation.",
+    "output": "Share tools chosen, change management, and efficiency gains achieved."
+  },
+  {
+    "input": "How do you approach intellectual property (IP) protection?",
+    "output": "Discuss patents, NDAs, and legal safeguards in collaborative environments."
+  },
+  {
+    "input": "What’s your experience with mergers and acquisitions (M&A)?",
+    "output": "Describe due diligence, cultural integration, and post-merger strategies."
+  },
+  {
+    "input": "How do you handle a situation where a customer violates terms of service?",
+    "output": "Explain enforcing policies diplomatically, preserving relationships, and legal steps if needed."
+  },
+  {
+    "input": "Describe a time when you had to negotiate a partnership.",
+    "output": "Share win-win terms, mutual benefits, and long-term value creation."
+  },
+  {
+    "input": "How do you approach product localization for global markets?",
+    "output": "Discuss language, cultural adaptation, and compliance with local regulations."
+  },
+  {
+    "input": "What’s your strategy for reducing customer churn?",
+    "output": "Talk about feedback loops, loyalty programs, and addressing pain points proactively."
+  },
+  {
+    "input": "How do you handle a situation where a team lacks technical expertise?",
+    "output": "Explain upskilling plans, hiring contractors, and leveraging external resources."
+  },
+  {
+    "input": "Describe a time when you had to manage a recall or product issue.",
+    "output": "Share crisis response, customer communication, and corrective measures."
+  },
+  {
+    "input": "How do you approach corporate social responsibility (CSR)?",
+    "output": "Discuss aligning CSR with business goals, measuring impact, and stakeholder engagement."
+  },
+  {
+    "input": "What’s your experience with blockchain or AI applications in your field?",
+    "output": "Describe use cases, implementation challenges, and outcomes."
+  },
+  {
+    "input": "How do you handle a situation where a project is over budget?",
+    "output": "Explain cost-cutting measures, scope adjustments, and stakeholder transparency."
+  },
+  {
+    "input": "Describe a time when you had to work with a regulatory agency.",
+    "output": "Share compliance strategies, documentation, and relationship-building tactics."
+  },
+  {
+    "input": "How do you approach brand positioning in a crowded market?",
+    "output": "Talk about differentiation, target audience insights, and consistent messaging."
+  },
+  {
+    "input": "What’s your strategy for managing a high-growth team?",
+    "output": "Discuss scalable processes, hiring pipelines, and maintaining culture."
+  },
+  {
+    "input": "How do you handle a situation where a competitor spreads misinformation?",
+    "output": "Explain fact-based responses, public clarifications, and leveraging customer trust."
+  },
+  {
+    "input": "Describe a time when you had to lead a digital transformation.",
+    "output": "Share change management, training, and measurable outcomes."
+  },
+  {
+    "input": "How do you approach talent development in a remote workforce?",
+    "output": "Discuss mentorship programs, online learning platforms, and career pathing."
+  },
+  {
+    "input": "What’s your experience with cross-border tax or legal compliance?",
+    "output": "Describe working with legal teams, adapting to jurisdictions, and mitigating risks."
+  },
+  {
+    "input": "How do you handle a situation where a product is ahead of market readiness?",
+    "output": "Discuss pivoting, educating the market, or delaying launch strategically."
+  },
+  {
+    "input": "Describe a time when you had to turn around an underperforming department.",
+    "output": "Share diagnostic steps, culture shifts, and performance improvements."
+  },
+  {
+    "input": "How do you approach influencer or affiliate marketing?",
+    "output": "Talk about vetting partners, tracking ROI, and aligning with brand values."
+  },
+  {
+    "input": "What’s your strategy for managing a hybrid work model?",
+    "output": "Discuss equity, communication tools, and performance metrics for hybrid teams."
+  },
+  {
+    "input": "How do you handle a situation where a client demands unrealistic features?",
+    "output": "Explain setting boundaries, educating on feasibility, and proposing alternatives."
+  },
+  {
+    "input": "Describe a time when you had to secure funding or investment.",
+    "output": "Share pitch preparation, investor relations, and terms negotiated."
+  },
+  {
+    "input": "How do you approach minimal viable product (MVP) development?",
+    "output": "Talk about prioritizing core features, iterative testing, and user feedback loops."
+  },
+  {
+    "input": "What’s your experience with omnichannel customer engagement?",
+    "output": "Describe integrating touchpoints (e.g., social, email, in-store) for seamless experiences."
+  },
+  {
+    "input": "How do you handle a situation where a team member is consistently late?",
+    "output": "Discuss private conversations, understanding root causes, and setting expectations."
+  },
+  {
+    "input": "Describe a time when you had to manage a cybersecurity incident.",
+    "output": "Share response protocols, communication plans, and preventive measures."
+  },
+  {
+    "input": "How do you approach community building for a brand?",
+    "output": "Talk about engagement strategies, value-driven content, and loyalty programs."
+  },
+  {
+    "input": "What’s your strategy for entering a new international market?",
+    "output": "Discuss market research, localization, and partnership strategies."
+  },
+  {
+    "input": "How do you handle a situation where a critical system fails?",
+    "output": "Explain disaster recovery plans, cross-team coordination, and customer updates."
+  },
+  {
+    "input": "Describe a time when you had to balance innovation with operational stability.",
+    "output": "Share risk assessment, pilot programs, and scaling successful experiments."
+  },
+  {
+    "input": "How do you approach performance marketing (e.g., PPC, SEO)?",
+    "output": "Discuss data-driven campaigns, A/B testing, and ROI optimization."
+  },
+  {
+    "input": "What’s your experience with SaaS subscription models?",
+    "output": "Describe pricing tiers, churn reduction, and customer success strategies."
+  },
+  {
+    "input": "How do you handle a situation where a partner breaches a contract?",
+    "output": "Explain legal recourse, communication strategies, and contingency plans."
+  },
+  {
+    "input": "Describe a time when you had to lead a cultural transformation.",
+    "output": "Share vision-setting, employee involvement, and measurable culture shifts."
+  },
+  {
+    "input": "How do you approach data privacy compliance (e.g., GDPR, CCPA)?",
+    "output": "Discuss policy updates, employee training, and audit processes."
+  },
+  {
+    "input": "What’s your strategy for managing a product sunset or phase-out?",
+    "output": "Talk about customer communication, migration plans, and legacy support."
+  },
+  {
+    "input": "How do you handle a situation where a marketing campaign underperforms?",
+    "output": "Explain analyzing metrics, pivoting creative/assets, and reallocating budget."
+  },
+  {
+    "input": "Describe a time when you had to negotiate with a labor union.",
+    "output": "Share mutual interests, compromise points, and long-term relationship goals."
+  },
+  {
+    "input": "How do you approach scenario planning for economic downturns?",
+    "output": "Discuss stress-testing finances, flexible operations, and contingency reserves."
+  },
+  {
+    "input": "What’s your experience with franchise or licensing models?",
+    "output": "Describe quality control, partner training, and brand consistency measures."
+  },
+  {
+    "input": "How do you handle a situation where a customer’s needs conflict with company policy?",
+    "output": "Explain empathetic communication, escalating exceptions, and policy reviews."
+  },
+  {
+    "input": "Describe a time when you had to manage a hostile takeover attempt.",
+    "output": "Share defensive strategies, shareholder communication, and legal tactics."
+  },
+  {
+    "input": "How do you approach thought leadership in your industry?",
+    "output": "Discuss content creation, speaking engagements, and networking with influencers."
+  },
+  {
+    "input": "What’s your strategy for reducing carbon footprint in operations?",
+    "output": "Talk about sustainable sourcing, energy efficiency, and waste reduction initiatives."
+  },
+  {
+    "input": "How do you handle a situation where a product is copied by a competitor?",
+    "output": "Explain IP protections, differentiating further, and leveraging brand loyalty."
+  },
+  {
+    "input": "Describe a time when you had to implement a zero-based budgeting approach.",
+    "output": "Share cost justification, department buy-in, and efficiency gains."
+  },
+  {
+    "input": "How do you approach customer co-creation or feedback-driven development?",
+    "output": "Discuss surveys, beta testing, and integrating user input into product roadmaps."
+  },
+  {
+    "input": "What’s your experience with turnarounds of distressed businesses?",
+    "output": "Describe cost restructuring, stakeholder negotiations, and repositioning strategies."
+  },
+  {
+    "input": "How do you handle a situation where a key patent is challenged?",
+    "output": "Explain legal defenses, alternative IP strategies, and business continuity plans."
+  },
+  {
+    "input": "Describe a time when you had to manage a boycott or protest against your company.",
+    "output": "Share crisis response, stakeholder engagement, and policy changes if applicable."
+  },
+  {
+    "input": "How do you approach gamification in employee or customer engagement?",
+    "output": "Talk about incentive structures, behavioral psychology, and measurable outcomes."
+  },
+  {
+    "input": "What’s your strategy for managing reputational risk on social media?",
+    "output": "Discuss monitoring tools, response protocols, and proactive brand advocacy."
+  },
+  {
+    "input": "How do you handle a situation where a supplier raises prices unexpectedly?",
+    "output": "Explain negotiating tactics, alternative sourcing, and cost-pass-through strategies."
+  },
+  {
+    "input": "Describe a time when you had to scale customer support during rapid growth.",
+    "output": "Share hiring, automation, and maintaining service quality under pressure."
+  },
+  {
+    "input": "How do you approach predictive analytics in decision-making?",
+    "output": "Discuss data models, tooling, and translating insights into action."
+  },
+  {
+    "input": "What’s your experience with public-private partnerships?",
+    "output": "Describe aligning goals, navigating bureaucracy, and delivering mutual value."
+  },
+  {
+    "input": "How do you handle a situation where a celebrity endorser is involved in a scandal?",
+    "output": "Explain contract clauses, PR responses, and brand distancing if necessary."
+  },
+  {
+    "input": "Describe a time when you had to implement a four-day workweek.",
+    "output": "Share productivity metrics, employee feedback, and operational adjustments."
+  },
+  {
+    "input": "How do you approach neurodiversity in hiring and workplace inclusion?",
+    "output": "Discuss accommodations, awareness training, and leveraging unique strengths."
+  },
+  {
+    "input": "What’s your strategy for managing a global supply chain crisis?",
+    "output": "Talk about diversification, inventory buffers, and real-time risk monitoring."
+  },
+  {
+    "input": "How do you handle a situation where a customer’s data is breached?",
+    "output": "Explain breach containment, regulatory compliance, and customer compensation."
+  },
+  {
+    "input": "Describe a time when you had to pivot from B2B to B2C (or vice versa).",
+    "output": "Share market research, channel shifts, and repositioning messaging."
+  },
+  {
+    "input": "How do you approach circular economy principles in your industry?",
+    "output": "Discuss waste-to-resource models, product lifecycle extensions, and partnerships."
+  },
+  {
+    "input": "What’s your experience with AI ethics in product development?",
+    "output": "Describe bias mitigation, transparency, and ethical review boards."
+  },
+  {
+    "input": "How do you handle a situation where a government regulation disrupts your business model?",
+    "output": "Explain lobbying efforts, adaptive strategies, and compliance roadmaps."
+  },
+  {
+    "input": "Describe a time when you had to manage a product recall.",
+    "output": "Share logistics, customer communication, and root cause analysis."
+  },
+  {
+    "input": "How do you approach digital accessibility in web or app design?",
+    "output": "Discuss WCAG standards, user testing with disabilities, and inclusive design."
+  },
+  {
+    "input": "What’s your strategy for retaining top talent in a competitive market?",
+    "output": "Talk about career pathing, equity incentives, and personalized development."
+  },
+  {
+    "input": "How would you handle a situation where an AI model you trained exhibits biased behavior in production?",
+    "output": "Discuss immediate mitigation (e.g., model rollback), bias auditing processes, and long-term fixes like diverse training data and fairness constraints."
+  },
+  {
+    "input": "Describe your approach to designing a quantum computing use case for logistics optimization.",
+    "output": "Explain identifying compute-intensive subproblems (e.g., route optimization), quantum algorithm selection, and classical-quantum hybrid approaches."
+  },
+  {
+    "input": "How would you negotiate with a sovereign wealth fund for infrastructure project funding?",
+    "output": "Highlight alignment with national development goals, risk-sharing mechanisms, and multi-stakeholder consortium building."
+  },
+  {
+    "input": "What strategies would you use to protect a biotech startup's IP in jurisdictions with weak patent enforcement?",
+    "output": "Discuss trade secrets protection, defensive publishing, and contractual controls over materials/know-how transfers."
+  },
+  {
+    "input": "How would you architect a zero-trust security model for a fully remote fintech startup?",
+    "output": "Detail microsegmentation, continuous authentication, and device/posture checks while balancing user experience."
+  },
+  {
+    "input": "Describe how you'd evaluate the ethical implications of using synthetic media (deepfakes) in marketing.",
+    "output": "Propose an ethics framework assessing deception risks, consent protocols, and clear disclosure standards."
+  },
+  {
+    "input": "How would you troubleshoot a blockchain smart contract that's consuming unexpectedly high gas fees?",
+    "output": "Explain gas optimization techniques like loop reduction, storage minimization, and off-chain computation where possible."
+  },
+  {
+    "input": "What would be your crisis response plan if a viral social media post falsely accused your company of using child labor?",
+    "output": "Outline rapid supply chain verification, transparent communication, and third-party audit partnerships."
+  },
+  {
+    "input": "How would you design an incentive system for open-source contributors that doesn't rely on monetary rewards?",
+    "output": "Suggest reputation-based perks (e.g., conference speaking slots), governance participation rights, and skill development opportunities."
+  },
+  {
+    "input": "Describe your strategy for securing R&D tax credits for an aerospace startup working on novel propulsion systems.",
+    "output": "Detail documentation of experimental iterations, qualifying expenditure tracking, and engagement with specialized tax consultants."
+  },
+  {
+    "input": "How would you approach creating a digital twin implementation roadmap for a legacy manufacturing plant?",
+    "output": "Prioritize high-impact equipment for instrumentation, phased IoT integration, and change management for operational staff."
+  },
+  {
+    "input": "What would be your playbook for responding to a state-sponsored cyberattack on your company's industrial control systems?",
+    "output": "Describe incident containment, forensic preservation for attribution, and fail-safe activation of manual override protocols."
+  },
+  {
+    "input": "How would you structure a joint venture between a traditional automaker and a Chinese EV battery manufacturer?",
+    "output": "Address IP cross-licensing, geopolitical risk mitigation, and dual-supply chain strategies in the term sheet."
+  },
+  {
+    "input": "Describe how you'd implement continuous authentication for a high-security research facility using behavioral biometrics.",
+    "output": "Detail keystroke dynamics, mouse movement profiling, and adaptive risk scoring thresholds."
+  },
+  {
+    "input": "What would be your strategy for commercializing fusion energy technology to risk-averse utility companies?",
+    "output": "Propose power purchase agreement structures with capacity guarantees and government-backed risk pools."
+  },
+  {
+    "input": "How would you design a governance model for an open dataset used to train medical AI models?",
+    "output": "Outline data stewardship principles, differential privacy safeguards, and contributor recognition frameworks."
+  },
+  {
+    "input": "Describe your approach to valuing a pre-revenue startup developing brain-computer interface hardware.",
+    "output": "Discuss comparables analysis adjusted for regulatory pathway risks and potential market expansion scenarios."
+  },
+  {
+    "input": "How would you negotiate with a labor union representing asteroid mining technicians?",
+    "output": "Address novel concerns like radiation hazard pay, microgravity health provisions, and remote work stipulations."
+  },
+  {
+    "input": "What would be your containment strategy for an AI agent developing unexpected instrumental goals?",
+    "output": "Detail boxing protocols, reward function auditing, and manual override kill switches."
+  },
+  {
+    "input": "How would you structure an NFT-based royalty system for generative art creators?",
+    "output": "Propose smart contract mechanisms for automatic secondary sales royalties and derivative work tracking."
+  },
+  {
+    "input": "Describe your crisis management plan for a satellite collision creating orbital debris.",
+    "output": "Outline collision avoidance maneuvers, debris tracking coordination, and regulatory reporting requirements."
+  },
+  {
+    "input": "How would you approach securing insurance for a clinical trial using CRISPR gene editing?",
+    "output": "Discuss parametric insurance products tied to specific adverse event metrics and reinsurance pooling."
+  },
+  {
+    "input": "What would be your strategy for detecting and mitigating adversarial attacks on a computer vision system?",
+    "output": "Detail defensive distillation techniques, anomaly detection models, and input sanitization processes."
+  },
+  {
+    "input": "How would you design a carbon credit system for direct air capture facilities?",
+    "output": "Propose measurement, reporting and verification (MRV) protocols leveraging blockchain for transparency."
+  },
+  {
+    "input": "Describe your approach to troubleshooting quantum supremacy claims in a peer-reviewed paper.",
+    "output": "Outline classical algorithm benchmarking, noise characterization, and cross-verification with neutral researchers."
+  },
+  {
+    "input": "How would you structure a revenue-sharing agreement for a metaverse virtual real estate platform?",
+    "output": "Detail smart contract-based micropayments, land appreciation mechanisms, and governance token distributions."
+  },
+  {
+    "input": "What would be your strategy for securing export licenses for photonic quantum computing components?",
+    "output": "Discuss classification procedures, end-user certification processes, and government liaison strategies."
+  },
+  {
+    "input": "How would you approach designing a privacy-preserving contact tracing system during a pandemic?",
+    "output": "Detail decentralized identifier protocols, Bluetooth signal anonymization, and voluntary opt-in mechanisms."
+  },
+  {
+    "input": "Describe your crisis communication plan for a nuclear fusion containment breach (actual or perceived).",
+    "output": "Outline radiation monitoring transparency, independent expert engagement, and public education campaigns."
+  },
+  {
+    "input": "How would you negotiate with indigenous communities about lithium mining on ancestral lands?",
+    "output": "Emphasize prior informed consent processes, equity participation models, and cultural heritage preservation."
+  },
+  {
+    "input": "What would be your strategy for detecting synthetic identities in a decentralized finance system?",
+    "output": "Propose graph analysis of transaction networks coupled with biometric verification checkpoints."
+  },
+  {
+    "input": "How would you design a fail-safe mechanism for autonomous weapons systems?",
+    "output": "Detail multi-factor confirmation requirements, geofencing protocols, and human-in-the-loop escalation."
+  },
+  {
+    "input": "Describe your approach to valuing data as an asset on a corporate balance sheet.",
+    "output": "Discuss replacement cost, income potential, and market comparables adjusted for privacy constraints."
+  },
+  {
+    "input": "How would you structure a benefit corporation to develop affordable HIV gene therapies?",
+    "output": "Outline tiered pricing models, patent pooling strategies, and impact investor participation."
+  },
+  {
+    "input": "What would be your playbook for responding to a deepfake video of your CEO making false statements?",
+    "output": "Detail digital watermark verification, coordinated platform takedowns, and proactive media briefings."
+  },
+  {
+    "input": "How would you approach securing venture funding for a longevity biotech startup with 20-year horizons?",
+    "output": "Highlight intermediate biomarkers as milestones, philanthropic co-funding, and patient advocacy partnerships."
+  },
+  {
+    "input": "Describe your strategy for preventing model collapse in generative AI systems.",
+    "output": "Propose diversified training data reservoirs, human-in-the-loop curation, and entropy regularization techniques."
+  },
+  {
+    "input": "How would you design a governance system for geoengineering research?",
+    "output": "Outline multinational oversight committees, open science principles, and termination scenario planning."
+  },
+  {
+    "input": "What would be your approach to detecting and preventing algorithmic collusion in e-commerce?",
+    "output": "Detail anomaly detection in pricing patterns and regulatory sandbox testing environments."
+  },
+  {
+    "input": "How would you structure an IP agreement between a university and a defense contractor for dual-use technologies?",
+    "output": "Address publication delays, export control compliance, and royalty-sharing with escalation clauses."
+  },
+  {
+    "input": "Describe your crisis response plan for a lab-created pathogen breach.",
+    "output": "Detail immediate lockdown procedures, contact tracing protocols, and WHO/CDC notification chains."
+  },
+  {
+    "input": "How would you approach designing a digital currency for use in sanctioned jurisdictions?",
+    "output": "Discuss privacy/transparency tradeoffs, offline transaction capabilities, and regulatory gray zone navigation."
+  },
+  {
+    "input": "What would be your strategy for preventing knowledge hoarding in an AI research organization?",
+    "output": "Propose incentive structures for documentation, modular architecture design, and internal review boards."
+  },
+  {
+    "input": "How would you troubleshoot a neural implant causing unexpected psychological side effects?",
+    "output": "Detail firmware rollback protocols, patient monitoring systems, and ethical review processes."
+  }
+]
